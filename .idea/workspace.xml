@@ -36,8 +36,8 @@
       <file leaf-file-name="bbdd.sql" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-bbdd/bbdd.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="565" column="76" selection-start-line="565" selection-start-column="76" selection-end-line="565" selection-end-column="76" />
+            <state relative-caret-position="293">
+              <caret line="402" column="127" selection-start-line="402" selection-start-column="122" selection-end-line="402" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -216,12 +216,12 @@
       <option name="presentableId" value="Default" />
       <updated>1472758555305</updated>
       <workItem from="1472758557521" duration="139000" />
-      <workItem from="1472758755148" duration="750000" />
+      <workItem from="1472758755148" duration="1157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="889000" />
+    <option name="totallyTimeSpent" value="1296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="23" width="2007" height="1321" extended-state="0" />
@@ -279,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-bbdd/bbdd.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="565" column="76" selection-start-line="565" selection-start-column="76" selection-end-line="565" selection-end-column="76" />
+        <state relative-caret-position="293">
+          <caret line="402" column="127" selection-start-line="402" selection-start-column="122" selection-end-line="402" selection-end-column="127" />
           <folding />
         </state>
       </provider>
